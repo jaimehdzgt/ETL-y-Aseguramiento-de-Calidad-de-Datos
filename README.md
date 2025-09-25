@@ -19,20 +19,6 @@ Incluye normalización de esquema, limpieza, validaciones de negocio, deduplicac
 
 ---
 
-## 📂 Estructura del repositorio
-
-```
-.
-├── etl_enhanced_colab.ipynb           # Notebook principal (listo para Google Colab)
-├── etl_cleaning_notebook_fixed.ipynb  # Variante previa (también funcional)
-├── fact_orders_clean.csv              # Salida con datos limpios (se genera al ejecutar)
-├── quality_report.csv                 # Resumen de calidad (se genera al ejecutar)
-├── README.md                          # Este archivo
-└── /datasets/                         # (opcional local) lugar para .xlsx si trabajas fuera de Colab
-```
-
----
-
 ## 🚀 Ejecución rápida (Google Colab)
 
 1. Sube **`etl_enhanced_colab.ipynb`** a tu Colab o abre desde tu Drive.
