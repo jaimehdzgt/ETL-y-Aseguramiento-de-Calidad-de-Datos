@@ -1,7 +1,3 @@
-# ETL-y-Aseguramiento-de-Calidad-de-Datos
-
-
-
 # ETL & Data Quality for E‑commerce (Pedidos)
 
 Proyecto completo para demostrar **buenas prácticas de ETL y aseguramiento de calidad de datos** en un caso de e‑commerce.
